@@ -13,3 +13,5 @@ Comandos de instalación:
 - npm install css-minimizer-webpack-plugin terser-webpack-plugin clean-webpack-plugin -D
 
 ```
+
+Usar react con nextjs
