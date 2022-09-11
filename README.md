@@ -15,3 +15,4 @@ Comandos de instalación:
 ```
 
 Usar react con nextjs
+ver curso de empaquetadores
